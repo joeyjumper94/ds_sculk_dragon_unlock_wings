@@ -1,0 +1,1 @@
+scoreboard objectives add ds_sculk_dragon_wing_autounlock dummy

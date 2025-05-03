@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required":false,
+      "id":"ds_sculk_dragon_wing_autounlock:tick"
+    }
+  ]
+}
