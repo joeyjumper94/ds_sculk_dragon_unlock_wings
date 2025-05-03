@@ -1,5 +1,5 @@
-# ds_sculk_dragon_scaly_beacon
- sculk themed DS addon
+# ds_sculk_dragon_wing_autounlock
+ Enables the auto unlocking of sculk dragon wings
 
 # required mods
  Dragon survival:
