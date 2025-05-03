@@ -12,7 +12,7 @@
 
 # suggested mods:
  Global Datapacks
- https://www.curseforge.com/minecraft/mc-mods/dragons-survival simplifies usage of datapacks.
+ https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack simplifies usage of datapacks.
 
 # installation instructions
  for clients:
