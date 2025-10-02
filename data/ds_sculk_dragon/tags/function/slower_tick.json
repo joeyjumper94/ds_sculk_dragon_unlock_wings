@@ -3,7 +3,7 @@
   "values": [
     {
       "required":false,
-      "id":"ds_sculk_dragon_wing_autounlock:tick"
+      "id":"ds_sculk_dragon_wing_autounlock:slower_tick"
     }
   ]
 }
