@@ -1,3 +1,7 @@
+# DEPRECIATED
+Functionality has been migrated to the main addon, this will not work on Sculk Dragon addon versions posted after July 9th 2026 
+
+
 # ds_sculk_dragon_wing_autounlock
  Enables the auto unlocking of sculk dragon wings
 
